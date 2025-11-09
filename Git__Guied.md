@@ -19,7 +19,7 @@ git add .
 git commit -m "Initial commit"
 
 # 4️⃣ Add your remote repository (replace with your actual GitHub repo link)
-git remote add origin https://github.com/USERNAME/REPOSITORY-NAME.git
+git remote add origin  ()
 
 # 5️⃣ Push your code to GitHub
 git push -u origin main
